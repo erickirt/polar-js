@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> This SDK is now deprecated and archived.
+> 
+> We now have a new TypeScript SDK with a new home: https://github.com/polarsource/polar/tree/main/sdk/typescript
+
 # @polar-sh/sdk
 
 Developer-friendly & type-safe Typescript SDK specifically catered to leverage [Polar](https://polar.sh) API.
